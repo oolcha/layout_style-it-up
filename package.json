@@ -20,6 +20,7 @@
   "devDependencies": {
     "@linthtml/linthtml": "^0.8.3",
     "@mate-academy/backstop-config": "^1.0.0",
+    "@mate-academy/bemlint": "^0.1.2",
     "@mate-academy/eslint-config": "*",
     "@mate-academy/linthtml-config": "0.0.2",
     "@mate-academy/scripts": "^1.2.8",
